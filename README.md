@@ -1,6 +1,6 @@
-# persevereBetter
+# task
 
-a task for better app
+A new Flutter project.
 
 ## Getting Started
 

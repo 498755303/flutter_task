@@ -1,4 +1,4 @@
-package com.example.persevereBetter
+package com.example.task
 
 import io.flutter.embedding.android.FlutterActivity
 
